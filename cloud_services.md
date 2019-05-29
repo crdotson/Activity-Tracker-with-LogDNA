@@ -36,7 +36,7 @@ Use the {{site.data.keyword.at_full}} service to monitor user-initiated activiti
 Core platform services generate events that you can view through the **Frankfurt (eu-de)** {{site.data.keyword.at_full_notm}} web UI. To view these events, you must [provision an instance](/docs/services/Activity-Tracker-with-LogDNA?topic=logdnaat-provision#provision) of the {{site.data.keyword.at_full_notm}} service in the **Frankfurt (eu-de)** region.
 {: note}
 
-The following table lists core platform actions that send events to {{site.data.keyword.at_full_notm}} by the ***Reasource controller service**:
+The following table lists core platform actions that send events to {{site.data.keyword.at_full_notm}} by the **Resource controller service**:
 
 | Action                           | Description | {{site.data.keyword.at_full_notm}} events |
 |----------------------------------|-------------|-------------------------------------------|
