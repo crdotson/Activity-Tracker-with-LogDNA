@@ -53,7 +53,7 @@ For example, you can use the {{site.data.keyword.at_full_notm}} events to identi
 * The users who made API calls to cloud services
 * The time-stamp when the API calls were made
 * The status of the API call
-* The criticallity of the action
+* The criticality of the action
 
 
 Consider the following information about security when you work with the {{site.data.keyword.at_full_notm}} service:
